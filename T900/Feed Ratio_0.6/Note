@@ -1,3 +1,4 @@
-Cokegen = Total coke formation rate
-Cokerem = Total coke removal rate
+CokeGen = Total coke formation rate
+CokeRem = Total coke removal rate
 DRM rate = Total dry reforming rate
+
